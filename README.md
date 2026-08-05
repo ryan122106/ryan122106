@@ -1,87 +1,113 @@
-<div align="center">
+# 👋 Hi, I'm Piriyan Sehger
 
-# Hi 👋 I'm Piriyan Sehger
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MERN;Always+Learning+New+Technologies" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MERN;Building+Real+World+Projects" />
 
 ---
 
 ## 🚀 About Me
 
-💻 Diploma in Software Engineering
-
-🌱 Currently learning Spring Boot, React and MERN Stack
-
-🏆 Hackathon Participant
-
-🚦 Building real-world web applications
-
-🎯 Goal: Become a Full Stack Software Engineer
+🎓 Software Engineering Student  
+💻 Full Stack Developer passionate about building scalable applications  
+🔥 Love creating backend systems, APIs, and modern web applications  
+🏸 Currently building projects using Spring Boot, React, and databases  
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,git,github,postman,vscode,idea,html,css,js"/>
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,php" />
+</p>
 
+### Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 Featured Projects
+
+## 🏸 Badminton E-Commerce System
+> Android application for browsing badminton rackets, cart management, and checkout system.
+
+**Tech Used**
+- Kotlin
+- Android Studio
+- RecyclerView
+- Room Database
+
+
+---
+
+## 🛡️ SafeRoute
+> A safety-focused web application prototype designed to improve emergency response and location awareness.
+
+**Tech Used**
+- MERN Stack
+- React
+- Node.js
+- MongoDB
+
+
+---
+
+## 🛒 E-Commerce Backend API
+
+> Backend system built with Spring Boot following professional MVC architecture.
+
+Features:
+- User Management
+- Product Management
+- Cart System
+- Order Processing
+- Payment System
+- Review System
+
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
+
 ---
 
-## 🔥 Contribution Streak
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 </p>
 
+
 ---
 
-## 🏆 GitHub Trophies
+# 📫 Connect With Me
 
-<p align="center">
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-🚦 SafeTructs – Driver Safety Platform
-
-🏸 Badminton Store – Spring Boot + React
-
-📚 Book Management API
-
-🍔 Food Ordering System
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)
-
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:youremail@gmail.com)
+⭐ "Code. Learn. Build. Improve."
