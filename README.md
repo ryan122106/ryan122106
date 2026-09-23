@@ -101,8 +101,8 @@ RESTful API built using Spring Boot with SQL Server.
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: riyansensei21@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/piriyan-sehger-16b730426/)
 
 ---
 
